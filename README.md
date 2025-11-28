@@ -21,9 +21,9 @@ A highly customizable Flutter OTP (One-Time Password) input field package with a
 
 <table>
   <tr>
-    <td><img src="screenshots/alphanumeric.png" width="250"/></td>
-    <td><img src="screenshots/numbers_only.png" width="250"/></td>
-    <td><img src="screenshots/full_characters.png" width="250"/></td>
+    <td><img src="screenshots/alphanumeric.png" width="500"/></td>
+    <td><img src="screenshots/numbers_only.png" width="500"/></td>
+    <td><img src="screenshots/full_characters.png" width="500"/></td>
   </tr>
   <tr>
     <td align="center">Alphanumeric Mode</td>
