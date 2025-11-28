@@ -1,0 +1,31 @@
+name: otp_numpad
+description: "A flutter secured OTP and number keypad package."
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ^3.9.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+
+flutter:
+  uses-material-design: true
+
+
+#Architecture Overview
+
+#  **Key Features:**
+#- **Configurable fields**: 4-8 OTP fields
+#- **Character options**: Numbers only, alphanumeric, or full character set
+#- **Display modes**: Dots (masked) or visible characters
+#- **Custom keyboard**: MacBook-style layout with numbers, letters, and symbols
+#- **Minimum 6 characters** for security (configurable)
